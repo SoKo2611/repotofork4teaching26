@@ -7,7 +7,7 @@
 
 print("Hello World!")
 print("Ciao Maestro!")
-print("Sono sigura che ci darà il massimo dei voti per questa prestazione straordinaria..")
+print("Sono sicura che ci darà il massimo dei voti per questa prestazione straordinaria..")
 print("After struggeling a bit in class, it now get´s a little better..")
 print("Cari saluti, Sonja Königbauer")
 
